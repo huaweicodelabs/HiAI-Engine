@@ -109,7 +109,6 @@ public class MainActivity extends AppCompatActivity {
             return;
         }
         mImageView.setImageBitmap(mSourceBitmap);
-        detect();
 
     }
 
